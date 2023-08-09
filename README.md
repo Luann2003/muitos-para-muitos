@@ -1,2 +1,2 @@
 # muitos-para-muitos
-Como vai ser um Postmapping
+Como fazer um Postmapping
